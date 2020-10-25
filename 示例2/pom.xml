@@ -11,7 +11,7 @@
 	<groupId>com.github.yeecode</groupId>
 	<artifactId>mybatisdemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>mybatisdemo</name>
+	<name>示例2</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
